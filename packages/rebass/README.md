@@ -1,6 +1,3 @@
-
-<img src='https://rebassjs.org/logo.svg' width='128' height='128' />
-
 # Rebass
 
 React primitive UI components built with [Styled System][].
